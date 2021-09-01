@@ -13,6 +13,7 @@ this will create a folder wil your component name in the folder_name you provide
 2)componsnt_name.styles.css
 
 if you are using scss add scss as an argument to the command
+
 eg node create-component components custom-button scss
 
 
