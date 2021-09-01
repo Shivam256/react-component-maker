@@ -1,0 +1,8 @@
+{
+  "name": "component-maker",
+  "version": "1.0.0",
+  "main": "create-component.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {}
+}
